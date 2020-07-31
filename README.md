@@ -1,2 +1,2 @@
 # Oh, hello there!
-[hueh.jpg](https://i.imgur.com/mZX3AhA.jpg)
+<img src="https://i.imgur.com/mZX3AhA.jpg">
