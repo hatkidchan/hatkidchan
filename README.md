@@ -13,7 +13,7 @@ Interests:
 
 Development environment:
     Arch Linux @ laptop, Windows 10 Ameliorated @ desktop.
-    Text editor: neovim
+    Text editor: neovim (https://github.com/hatkidchan/sddot)
 
 Contacts:
     Telegram:   @hatkidchan     (https://t.me/hatkidchan)
@@ -22,6 +22,7 @@ Contacts:
     Discord:    hkc#0517        (https://discord.gg/3zPP56Mxn5)
                 hatkidchan#0630
     Twitter:    @hatkidchan     (https://twitter.com/hatkidchan)
+    Mastodon:   @hatkidchan@mastodon.astrr.ru
     Matrix:     @hkc:matrix.org
     E-Mail:     b64d(aGF0a2lkY2hhbiBhdCBnbWFpbCBkb3QgY29t)
     More:       maybe.
@@ -29,7 +30,7 @@ Contacts:
 Donations:
     ~~https://qiwi.com/n/undefinedvalue~~
     ~~https://donationalerts.com/r/hatkidchan~~
-    
+
 Hiring:
     *coming soon*
 
