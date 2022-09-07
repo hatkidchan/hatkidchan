@@ -19,7 +19,7 @@ Contacts:
     Telegram:   @hatkidchan     (https://t.me/hatkidchan)
                 @hatkid_chan    (https://t.me/hatkid_chan)
     VK:         @hatkidchan     (https://vk.com/hatkidchan)
-    Discord:    hkc#0517        (https://discord.gg/3zPP56Mxn5)
+    Discord:    hkc#0517        (https://discord.gg/yqhCZhsaJ9)
                 hatkidchan#0630
     Twitter:    @hatkidchan     (https://twitter.com/hatkidchan)
     Mastodon:   @hatkidchan@mastodon.astrr.ru
