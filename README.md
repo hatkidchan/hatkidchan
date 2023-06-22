@@ -22,7 +22,7 @@ Contacts:
     Discord:    hkc#0517        (https://discord.gg/yqhCZhsaJ9)
                 hatkidchan#0630
     Twitter:    @hatkidchan     (https://twitter.com/hatkidchan)
-    Mastodon:   @hatkidchan@mastodon.astrr.ru
+    Pleroma:    https://pl.salushnes.solutions/hkc
     Matrix:     @hkc:matrix.org
     E-Mail:     b64d(aGF0a2lkY2hhbiBhdCBnbWFpbCBkb3QgY29t)
     More:       maybe.
