@@ -1,5 +1,6 @@
 ```
 Hello.
+I'm moving off of GH: https://git.salushnes.solutions/hkc
 
 Development stack:
     C (!C++ | !C#), Python, JavaScript (!Java), Bash (!PS),
@@ -11,19 +12,14 @@ Interests:
     Bot developer (a little), primarily for Telegram,
     sometimes for VK & Discord.
 
-Development environment:
-    Arch Linux @ laptop, Windows 10 Ameliorated @ desktop.
-    Text editor: neovim (https://github.com/hatkidchan/sddot)
-
 Contacts:
     Telegram:   @hatkidchan     (https://t.me/hatkidchan)
-                @hatkid_chan    (https://t.me/hatkid_chan)
+                @kcs_stuff      (https://t.me/kcs_stuff)
     VK:         @hatkidchan     (https://vk.com/hatkidchan)
-    Discord:    hkc#0517        (https://discord.gg/yqhCZhsaJ9)
-                hatkidchan#0630
+    Discord:    .hkc            (https://discord.gg/yqhCZhsaJ9)
     Twitter:    @hatkidchan     (https://twitter.com/hatkidchan)
-    Pleroma:    https://pl.salushnes.solutions/hkc
-    Matrix:     @hkc:matrix.org
+    Fedi:       https://pl.salushnes.solutions/hkc
+    Matrix:     @hkc:envs.net
     E-Mail:     b64d(aGF0a2lkY2hhbiBhdCBnbWFpbCBkb3QgY29t)
     More:       maybe.
 
